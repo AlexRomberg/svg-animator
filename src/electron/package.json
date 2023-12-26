@@ -1,0 +1,6 @@
+{
+    "name": "svg-edit-electron",
+    "version": "0.1.0",
+    "main": "main.js",
+    "type": "module"
+}
